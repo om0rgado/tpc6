@@ -1,0 +1,43 @@
+
+    h1 {color: rgb(255, 251, 218);position: absolute; left: 20px; top:100px;}
+    button {background-color: rgb(255, 251, 218);color: rgb(0, 0, 0) ;position: absolute; left: 180px; top:131px}
+    h3 {color: rgb(218, 123, 15);position: absolute; left: 0px; top: 608px;}
+  
+      body 
+      { background-image: url(background.gif);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+       background-size: 100% 100%;
+      background-position-y: bottom; }
+  
+      body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif ;
+  }
+  
+  .barra-de-navegaçao {
+    overflow: hidden;
+    background-color: rgb(38, 24, 61); 
+  }
+  
+  .barra-de-navegaçao a {
+    float: left;
+    color: #adeeeb;
+    text-align: center ;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .barra-de-navegaçao a.active {
+    background-color: #2b2185;
+    width:60px; height:30px;
+    color: rgb(255, 230, 194);text-align: center }
+    
+    .barra-de-navegaçao a:hover {
+    background-color: rgb(255, 247, 247);
+    color: rgb(14, 7, 7);
+  }
+  
+ 
+  
